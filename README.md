@@ -4,11 +4,12 @@ Tecnologias utilizadas: React Hooks, Redux, Sass
 Testes: Testes unitários feitos em Jest e React Testing Libray
         Teste E2E feito em Jest e Puppeteer
     
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Download all dependencies
 
 ### `npm start`
 
