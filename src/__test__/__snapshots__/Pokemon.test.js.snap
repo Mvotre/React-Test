@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="pk-singleBox"
+  >
+    <img
+      alt="Pokemon"
+    />
+    <p
+      data-testid="nome"
+    >
+      <span>
+        Nome:
+      </span>
+       
+    </p>
+    <p>
+       
+      <span>
+         ID: 
+      </span>
+        
+    </p>
+    <p>
+       
+      <span>
+         Tipo: 
+      </span>
+        
+    </p>
+  </div>
+</DocumentFragment>
+`;
